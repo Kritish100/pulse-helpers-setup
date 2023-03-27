@@ -1,7 +1,7 @@
 {
   "name": "pulse-helpers",
-  "version": "0.1.0",
-  "private": true,
+  "version": "1.0.0",
+  "private": false,
   "main": "./dist/lib.umd.js",
   "module": "./dist/lib.module.js",
   "source": "./src/lib.package.js",
@@ -41,5 +41,20 @@
   },
   "devDependencies": {
     "microbundle": "^0.15.1"
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kritish100/test-package.git"
+  },
+  "keywords": [
+    "pulse",
+    "pulse-helpers"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kritish100/test-package/issues"
+  },
+  "homepage": "https://github.com/Kritish100/test-package#readme"
 }
